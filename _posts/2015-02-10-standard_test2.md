@@ -10,3 +10,4 @@ Here you can see the basic post. No fancy type, no setting and the featured imag
 The front matter for that basic post just consists of the basic tags, author, title, featimg, tags and category.
 
 <img http://imgur.com/GooZPuP.jpg>
+![alt text](http://imgur.com/GooZPuP.jpg "Title")
