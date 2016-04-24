@@ -11,3 +11,5 @@ The front matter for that basic post just consists of the basic tags, author, ti
 
 <img http://imgur.com/GooZPuP.jpg>
 ![alt text](http://imgur.com/GooZPuP.jpg "Title")
+
+<img src="http://imgur.com/GooZPuP.jpg">
