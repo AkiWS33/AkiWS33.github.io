@@ -1,7 +1,7 @@
 ---
 author: someone
 title: Standard Post
-image: http://imgur.com/GooZPuP.jpg
+image-embed: <img src="http://imgur.com/GooZPuP.jpg">
 tags: [text]
 category: [standard]
 ---
