@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://AkiWS33.github.io
+title: AkiWS33
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
