@@ -11,10 +11,6 @@ Here you can see the basic post. No fancy type, no setting and the featured imag
 The front matter for that basic post just consists of the basic tags, author, title, featimg, tags and category.
 
 
-<head>
-<title>ExamDiff Pro Diff Report</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-
 <style type="text/css">
 body{background-color: #fff; font-family: Lucida Console, monospace; font-size: 13px; font-style: normal; font-weight: 400;}
 table td, table th {padding: 0;}
